@@ -9,6 +9,7 @@ names>=0.3.0
 phonenumbers>=8.13.0
 pillow>=10.0.0
 requests>=2.31.0
-pyrogram>=2.0.0
+pyrogram>=2.0.106
+tgcrypto
 telethon>=1.34.0
 psutil>=5.9.0; platform_system != 'Android'
